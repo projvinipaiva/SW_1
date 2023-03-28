@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\Projeto_loja\bin\Debug\net7.0\Projeto_loja.exe
+C:\Users\LAB4\Desktop\Projeto_loja\bin\Debug\net7.0\Projeto_loja.deps.json
+C:\Users\LAB4\Desktop\Projeto_loja\bin\Debug\net7.0\Projeto_loja.runtimeconfig.json
+C:\Users\LAB4\Desktop\Projeto_loja\bin\Debug\net7.0\Projeto_loja.dll
+C:\Users\LAB4\Desktop\Projeto_loja\bin\Debug\net7.0\Projeto_loja.pdb
+C:\Users\LAB4\Desktop\Projeto_loja\obj\Debug\net7.0\Projeto_loja.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\Projeto_loja\obj\Debug\net7.0\Projeto_loja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\Projeto_loja\obj\Debug\net7.0\Projeto_loja.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\Projeto_loja\obj\Debug\net7.0\Projeto_loja.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\Projeto_loja\obj\Debug\net7.0\Projeto_loja.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\Projeto_loja\obj\Debug\net7.0\Projeto_loja.dll
+C:\Users\LAB4\Desktop\Projeto_loja\obj\Debug\net7.0\refint\Projeto_loja.dll
+C:\Users\LAB4\Desktop\Projeto_loja\obj\Debug\net7.0\Projeto_loja.pdb
+C:\Users\LAB4\Desktop\Projeto_loja\obj\Debug\net7.0\Projeto_loja.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\Projeto_loja\obj\Debug\net7.0\ref\Projeto_loja.dll
