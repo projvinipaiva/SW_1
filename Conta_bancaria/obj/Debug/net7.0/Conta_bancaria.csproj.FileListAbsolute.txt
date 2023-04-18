@@ -1,0 +1,5 @@
+C:\Users\LAB4\Desktop\Conta_bancaria\obj\Debug\net7.0\Conta_bancaria.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\Conta_bancaria\obj\Debug\net7.0\Conta_bancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\Conta_bancaria\obj\Debug\net7.0\Conta_bancaria.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\Conta_bancaria\obj\Debug\net7.0\Conta_bancaria.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\Conta_bancaria\obj\Debug\net7.0\Conta_bancaria.csproj.CoreCompileInputs.cache
