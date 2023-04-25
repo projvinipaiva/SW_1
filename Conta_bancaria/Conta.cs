@@ -1,10 +1,12 @@
 namespace conta_bancaria;
 class Conta{
 
+    public int Numero {get; set;}
     public double Valor;
     public string? cliente{get;set;}
     public double Saldo{get;set;}
-    public double Limite{get;set;}
+    
+    public double Limite{get; private set;}
 
     public double obterjuros(){
         double Juros = ((Valor * 0.06)*12) + Valor;
@@ -21,10 +23,21 @@ class Conta{
     }
 
     public void Sacar(double custo){
-        this.Saldo -= Valor;
+       if(Valor > this.Saldo + this.Limite){
+         Console.WriteLine("Você não pode realizar este saque ! saldo Insuficiente!");
+      }else
+      this.Saldo -= Valor;
     }
 
     public double ConsutSaldo(){
         return this.Saldo += this.Limite;
     }
+
+    public double MostrarSaldo(){
+    return this.Saldo + this.Limite;
+   }
+
+   public void AjustaLimite(double valor){
+      this.Limite = valor;
+   }
 }

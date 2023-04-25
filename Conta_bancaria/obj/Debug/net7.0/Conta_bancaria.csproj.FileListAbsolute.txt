@@ -3,3 +3,13 @@ C:\Users\LAB4\Desktop\Conta_bancaria\obj\Debug\net7.0\Conta_bancaria.GeneratedMS
 C:\Users\LAB4\Desktop\Conta_bancaria\obj\Debug\net7.0\Conta_bancaria.AssemblyInfoInputs.cache
 C:\Users\LAB4\Desktop\Conta_bancaria\obj\Debug\net7.0\Conta_bancaria.AssemblyInfo.cs
 C:\Users\LAB4\Desktop\Conta_bancaria\obj\Debug\net7.0\Conta_bancaria.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\Conta_bancaria\bin\Debug\net7.0\Conta_bancaria.exe
+C:\Users\LAB4\Desktop\Conta_bancaria\bin\Debug\net7.0\Conta_bancaria.deps.json
+C:\Users\LAB4\Desktop\Conta_bancaria\bin\Debug\net7.0\Conta_bancaria.runtimeconfig.json
+C:\Users\LAB4\Desktop\Conta_bancaria\bin\Debug\net7.0\Conta_bancaria.dll
+C:\Users\LAB4\Desktop\Conta_bancaria\bin\Debug\net7.0\Conta_bancaria.pdb
+C:\Users\LAB4\Desktop\Conta_bancaria\obj\Debug\net7.0\Conta_bancaria.dll
+C:\Users\LAB4\Desktop\Conta_bancaria\obj\Debug\net7.0\refint\Conta_bancaria.dll
+C:\Users\LAB4\Desktop\Conta_bancaria\obj\Debug\net7.0\Conta_bancaria.pdb
+C:\Users\LAB4\Desktop\Conta_bancaria\obj\Debug\net7.0\Conta_bancaria.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\Conta_bancaria\obj\Debug\net7.0\ref\Conta_bancaria.dll
