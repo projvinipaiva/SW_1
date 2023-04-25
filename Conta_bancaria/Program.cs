@@ -1,17 +1,20 @@
-﻿namespace Conta_bancaria;
-
+﻿namespace conta_bancaria;
 class Program
 {
     static void Main(string[] args){
-    
-    Conta conta = new Conta();
 
-    Console.Write("Digite o valor do seub emprestimo: ");
-    conta.valor = double.Parse(Console.ReadLine());
+        Conta conta = new Conta();
 
-    Console.WriteLine("Seu emprestimo é de: " + conta.valor);
-    Console.WriteLine("Seus jutos don emprestimos é de: " + conta.obterjuros());
-    Console.WriteLine("Seus jutos mensais serão de: " + conta.Mensal() + " por mes");
+        conta.Depositar(500);
+        conta.Sacar(900);
+        conta.Sacar(1000);
+
+        Console.Write("Digite o valor do seu emprestimo: ");
+        conta.Valor = double.Parse(Console.ReadLine());
+        
+        Console.WriteLine("Seu emprestimo é de: " + conta.Valor);
+        Console.WriteLine("Seu emprestimo com Juros é de: " + conta.obterjuros());
+        Console.WriteLine("Suas parcelas mensais serão de: " + conta.Mensal());
 
     }
 }
